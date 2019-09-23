@@ -31,13 +31,13 @@ my_string = ' HEllo this is an amazing string    '
 print(my_string.count('i'))
 print(my_string.count(' '))
 
-#.strip()
+#.strip() # Strip trailling white spaces
 print(my_string.strip())
 
 #len() # Not a method - general method built in
 print(len(my_string))
 
-#.lower()
+#.lower() # makes things lower case
 print(my_string.lower())
 
 #.upper()
@@ -52,3 +52,7 @@ print(my_string.replace('an', 'THE'))
 #.split(arg) --> list
 print(my_string.split(' '))
 print(type(my_string.split(' ')))
+print(my_string.split('i'))
+
+
+
