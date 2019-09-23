@@ -1,5 +1,5 @@
 #Assignment for post class
-# Use variables, print and different data types
+# Learning outcome: [variables, print, different data types]
 # ask and store the following in variables:
  # Name, last_name, age, age_of_mother, 3 skills
 
