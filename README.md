@@ -1,4 +1,4 @@
-# Engineering 42 Python Basics :TACO:
+# Engineering 42 Python Basics :taco:
 
 This repo contains our basics for python. 
 The course will cover the following:
