@@ -34,3 +34,9 @@ my_list = [1,2,2,'hey']
 print(type(my_list))
 #print(type('10'*variable_num)) #This will break
 
+
+#input()
+# it promps user for input
+print('What is your favorit color?')
+user_response = input('Now really, what is your favorit color?')
+print(user_response)
