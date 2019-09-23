@@ -55,6 +55,16 @@ print(crazy_x_partners)
  # Lists can have may data types
 hybrid_list = ['this is a string', 12, 66, 'hello', [1,2,3], [1,2,2]]
 
-
 # What happen when you have 3500000000 records? good question
  # Loops and other data formats
+
+# Tuples --> Immutable lists
+# They do not change
+# syntax
+# my_tuple = ()
+# tuples are defined by (), not using square brackets
+my_tuple = (2, 'hello', 22, 'more value')
+print(my_tuple)
+print(type(my_tuple))
+
+
