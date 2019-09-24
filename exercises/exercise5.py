@@ -12,3 +12,4 @@
  # a little context text
  # appropriate string formating like lower case or upper case, or other
 
+# assignment to variable

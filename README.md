@@ -33,8 +33,44 @@ The course will cover the following:
 
 
 
+## Data Types
+Computers are stupid. Please complete this section.
+I would like to know:
+- How to define / Syntax
+- How to access / How is organized
+- How to add to a list or a dictionary
 
+### String
+Define using '' and ""
 
+They are list of characters
+### Int, Floats
+Number and decimals
+
+You can 
+### List
+Defined with []
+
+You add using .append()
+
+And you remove entries using .pop()
+
+Use the index to access a record
+
+    $ my_list[4]
+    > 'item in list'
+
+### Dictionary
+Defined using {}
+
+You can add by simple generating a new key pair:
+
+    my_dictionary['new_key'] = 'value'
+
+You can access it using it's key.
+
+    $ my_dictionary['key']
+    > 'value'
 
 
    
